@@ -9,7 +9,7 @@
   </a>
 
   <a href="https://github.com/dionidip?tab=repositories">
-    <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionidip&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&exclude_repo=LinuxProject&langs_count=8" style="height:150px; width: auto; margin: 10px">
+    <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionidip&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&exclude_repo=LinuxProject,Machine-Learning-Project,Image-Processing-Algo&langs_count=8" style="height:150px; width: auto; margin: 10px">
   </a>
 
   
