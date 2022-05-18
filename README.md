@@ -9,9 +9,9 @@
       <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=paulus0617" style="height:150px; width: auto; margin: 10px;">
     </a>
   </div>
-  <div style="float:left; margin-left: 10px">
+<!--   <div style="float:left; margin-left: 10px"> -->
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionidip&exclude_repo=LinuxProject,Machine-Learning-Project,Image-Processing-Algo&layout=compact)](https://github.com/dionidip?tab=repositories)
-  </div>
+<!--   </div> -->
   
 </div>
 
