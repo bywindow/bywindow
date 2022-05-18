@@ -8,7 +8,7 @@
     <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=paulus0617" style="height:150px; width: auto; margin: 10px;">
   </a>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionidip&exclude_repo=LinuxProject,Machine-Learning-Project,Image-Processing-Algo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionidip&exclude_repo=LinuxProject,Machine-Learning-Project,Image-Processing-Algo&layout=compact)](https://github.com/dionidip?tab=repositories)
 
   
 </div>
