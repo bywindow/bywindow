@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=02343F&height=160&section=header&text=Hi👋%20I'm%20Changyeop!&fontAlign=50&fontAlignY=70&fontSize=60&fontColor=02343F)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=F0EDCC&height=160&section=header&text=Hi👋%20I'm%20Changyeop!&fontAlign=50&fontAlignY=70&fontSize=60&fontColor=02343F)
 
   <a href="https://velog.io/@paulus0617" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=GitHub Sponsors&logoColor=white" style="height : auto;"/></a> <a href="https://bywindow.notion.site/ByWindow-bcbda7d81a2b48faadb152547f0aac75" target="_blank"><img src="https://img.shields.io/badge/RESUME-000000?style=flat-square&logo=Notion&logoColor=white" style="height : auto; margin-left : 30px; "/></a> <a href="mailto:paulus0617@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulus0617@gmail.com" style="height : auto; margin-left : 30px;"/></a>
 
