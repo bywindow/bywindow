@@ -50,7 +50,7 @@
 />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionidip&exclude_repo=LinuxProject,Machine-Learning-Project,Image-Processing-Algo&layout=compact)](https://github.com/dionidip?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bywindow&exclude_repo=LinuxProject,Machine-Learning-Project,Image-Processing-Algo&layout=compact)](https://github.com/dionidip?tab=repositories)
 
 <!--
 **dionidip/dionidip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
