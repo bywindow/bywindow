@@ -49,9 +49,9 @@
   src="https://img.shields.io/static/v1?style=for-the-badge&message=React+NATIVE&color=FF4154&logo=React+Table&logoColor=FFFFFF&label=" style="max-width: 100%;"
 />
 </p>
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bywindow&exclude_repo=LinuxProject,Machine-Learning-Project,Image-Processing-Algo&layout=compact)](https://github.com/dionidip?tab=repositories)
-
+-->
 <!--
 **dionidip/dionidip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
